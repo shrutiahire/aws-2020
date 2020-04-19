@@ -151,10 +151,14 @@ Ans:
 40. Which of the following services can you use to monitor all API activity in your AWS account?
 
 41. Which of the following services can you use to monitor and report on performance metrics for your AWS Infrastructure?
+Ans: Amazon CloudWatch
 
 42. Which of the following tools can be used to determine who provisioned an EC2 instance and what time they made the API call?
 
 43. Which native AWS service will act as a file system mounted on an S3 bucket?
 
 44. SQS was the first service on the AWS platform. State True or False
+Ans: True
 
+with EC2 you can have 2 types of storage:EBS or Instance store. EBS is persistent and if an EC2 instance is stopped with an EBS volume attached,there will be no data lost. Instance store is ephemeral and if the EC2 instance is stopped ,all data will be lost. state true or false
+Ans: True
